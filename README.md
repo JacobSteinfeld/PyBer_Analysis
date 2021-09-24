@@ -5,12 +5,12 @@ The overall goal of this project was to use the ride share data and gather infor
 
 ## Results
 ### Results off City Type
-* ![Pyber](analysis/Pyber.png)
+* ![pyber](analysis/pyber.png)
 * As you can see in the graph above, Urban areas account for most of the rides, amount of drivers and total fares. It makes sense because urban areas are typically the busiest and the demand for rides is high.
 * There are much less rides in rural areas, but the average fare per ride is higher than the other two city types. Because Rural areas are more spread out, the average trip must be longer than most, which makes sense as to why the average fare is higher.
 * Suburban areas are in the middle compared to rural and urban areas. Suburban cities have more rides than rural areas, but the rides are still more expensive on average than the ones in urban areas.
 
-###Total Fare By City Type
+### Total Fare By City Type
 ![PyBer_fare_summary](analysis/PyBer_fare_summary.png)
 * In this graph above, we can see the ammount of fares generated per city type. As stated earlier, urban areas make up most of the total fares followed by suburban areas and then rural.
 * This graph also shows Fares in comparison to the month of the year. This can help us determine which months are the most profitable.
